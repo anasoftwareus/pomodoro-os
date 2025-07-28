@@ -1,0 +1,80 @@
+.sticky-notes-app {
+  width: 100%;
+  height: 100%;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.sticky-notes-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: #e0e0e0;
+  border-bottom: 1px solid #ccc;
+  flex-shrink: 0;
+}
+
+.sticky-notes-header h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.add-note-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.notes-canvas {
+  flex-grow: 1;
+  position: relative;
+  overflow: auto;
+}
+
+.sticky-note {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.note-header {
+  padding: 4px;
+  display: flex;
+  justify-content: flex-end;
+  cursor: move;
+}
+
+.delete-note-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+.sticky-note:hover .delete-note-button {
+  opacity: 1;
+}
+
+.note-textarea {
+  flex-grow: 1;
+  background: transparent;
+  border: none;
+  resize: none;
+  padding: 8px;
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'cursive';
+  font-size: 16px;
+  outline: none;
+}
