@@ -18,3 +18,4 @@
 - Thanks <paulirish> for contributing!
 - Thanks <addyosmani> for contributing!
 - Thanks <schacon> for contributing!
+- Thanks <jeresig> for contributing!
