@@ -10,3 +10,4 @@
 - Thanks <remy> for contributing!
 - Thanks <michaelklishin> for contributing!
 - Thanks <taylorotwell> for contributing!
+- Thanks <springmeyer> for contributing!
