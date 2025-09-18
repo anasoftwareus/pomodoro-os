@@ -4,3 +4,4 @@
 - Thanks <RamiKrispin> for contributing!
 - Thanks <Charles-Chrismann> for contributing!
 - Thanks <fabpot> for contributing!
+- Thanks <ornicar> for contributing!
