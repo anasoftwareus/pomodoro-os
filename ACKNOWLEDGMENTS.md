@@ -39,3 +39,4 @@
 - Thanks <isaacs> for contributing!
 - Thanks <postmodern> for contributing!
 - Thanks <tmcw> for contributing!
+- Thanks <visionmedia> for contributing!
