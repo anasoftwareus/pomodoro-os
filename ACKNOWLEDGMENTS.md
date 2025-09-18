@@ -15,3 +15,4 @@
 - Thanks <torvalds> for contributing!
 - Thanks <mojombo> for contributing!
 - Thanks <defunkt> for contributing!
+- Thanks <paulirish> for contributing!
