@@ -25,3 +25,4 @@
 - Thanks <mbostock> for contributing!
 - Thanks <jashkenas> for contributing!
 - Thanks <jlord> for contributing!
+- Thanks <mdo> for contributing!
