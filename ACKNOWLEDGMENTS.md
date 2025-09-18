@@ -24,3 +24,4 @@
 - Thanks <mattt> for contributing!
 - Thanks <mbostock> for contributing!
 - Thanks <jashkenas> for contributing!
+- Thanks <jlord> for contributing!
