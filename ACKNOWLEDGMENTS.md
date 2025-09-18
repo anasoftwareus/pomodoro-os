@@ -26,3 +26,4 @@
 - Thanks <jashkenas> for contributing!
 - Thanks <jlord> for contributing!
 - Thanks <mdo> for contributing!
+- Thanks <gaearon> for contributing!
