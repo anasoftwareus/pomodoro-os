@@ -32,3 +32,4 @@
 - Thanks <peppy> for contributing!
 - Thanks <dtolnay> for contributing!
 - Thanks <GrahamCampbell> for contributing!
+- Thanks <freekmurze> for contributing!
