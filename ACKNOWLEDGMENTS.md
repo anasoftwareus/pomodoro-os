@@ -5,3 +5,4 @@
 - Thanks <Charles-Chrismann> for contributing!
 - Thanks <fabpot> for contributing!
 - Thanks <ornicar> for contributing!
+- Thanks <jeromeetienne> for contributing!
