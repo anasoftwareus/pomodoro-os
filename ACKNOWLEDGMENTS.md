@@ -8,3 +8,4 @@
 - Thanks <jeromeetienne> for contributing!
 - Thanks <davglass> for contributing!
 - Thanks <remy> for contributing!
+- Thanks <michaelklishin> for contributing!
