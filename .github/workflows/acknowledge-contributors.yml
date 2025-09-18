@@ -29,12 +29,15 @@ jobs:
             echo "No usernames found."
             exit 0
           fi
-          echo "usernames=$USERNAMES" >> $GITHUB_OUTPUT
+
+          # Safe output for GitHub Actions
+          echo "usernames<<EOF" >> $GITHUB_OUTPUT
+          echo "$USERNAMES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Commit acknowledgment for each contributor
         run: |
           USERNAMES="${{ steps.extract.outputs.usernames }}"
-          # Ensure file exists
           touch ACKNOWLEDGMENTS.md
 
           for USERNAME in $USERNAMES; do
@@ -55,5 +58,4 @@ jobs:
             fi
           done
 
-          # Push all commits at once
           git push
