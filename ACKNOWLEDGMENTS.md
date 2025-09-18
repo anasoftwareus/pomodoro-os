@@ -11,3 +11,4 @@
 - Thanks <michaelklishin> for contributing!
 - Thanks <taylorotwell> for contributing!
 - Thanks <springmeyer> for contributing!
+- Thanks <dcramer> for contributing!
