@@ -6,3 +6,4 @@
 - Thanks <fabpot> for contributing!
 - Thanks <ornicar> for contributing!
 - Thanks <jeromeetienne> for contributing!
+- Thanks <davglass> for contributing!
