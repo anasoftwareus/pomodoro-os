@@ -14,3 +14,4 @@
 - Thanks <dcramer> for contributing!
 - Thanks <torvalds> for contributing!
 - Thanks <mojombo> for contributing!
+- Thanks <defunkt> for contributing!
