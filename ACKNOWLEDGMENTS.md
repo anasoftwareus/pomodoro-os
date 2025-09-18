@@ -12,3 +12,4 @@
 - Thanks <taylorotwell> for contributing!
 - Thanks <springmeyer> for contributing!
 - Thanks <dcramer> for contributing!
+- Thanks <torvalds> for contributing!
