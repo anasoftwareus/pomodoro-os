@@ -20,3 +20,4 @@
 - Thanks <schacon> for contributing!
 - Thanks <jeresig> for contributing!
 - Thanks <jakewharton> for contributing!
+- Thanks <douglascrockford> for contributing!
