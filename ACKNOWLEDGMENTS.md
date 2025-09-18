@@ -9,3 +9,4 @@
 - Thanks <davglass> for contributing!
 - Thanks <remy> for contributing!
 - Thanks <michaelklishin> for contributing!
+- Thanks <taylorotwell> for contributing!
