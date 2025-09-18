@@ -40,3 +40,4 @@
 - Thanks <postmodern> for contributing!
 - Thanks <tmcw> for contributing!
 - Thanks <visionmedia> for contributing!
+- Thanks <c9s> for contributing!
