@@ -23,3 +23,4 @@
 - Thanks <douglascrockford> for contributing!
 - Thanks <mattt> for contributing!
 - Thanks <mbostock> for contributing!
+- Thanks <jashkenas> for contributing!
