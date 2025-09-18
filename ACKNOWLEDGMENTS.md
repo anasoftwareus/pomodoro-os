@@ -16,3 +16,4 @@
 - Thanks <mojombo> for contributing!
 - Thanks <defunkt> for contributing!
 - Thanks <paulirish> for contributing!
+- Thanks <addyosmani> for contributing!
