@@ -29,3 +29,4 @@
 - Thanks <gaearon> for contributing!
 - Thanks <frenck> for contributing!
 - Thanks <charliermarsh> for contributing!
+- Thanks <peppy> for contributing!
