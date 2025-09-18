@@ -36,3 +36,4 @@
 - Thanks <Borda> for contributing!
 - Thanks <cheshire137> for contributing!
 - Thanks <substack> for contributing!
+- Thanks <isaacs> for contributing!
