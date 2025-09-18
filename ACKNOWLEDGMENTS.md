@@ -33,3 +33,4 @@
 - Thanks <dtolnay> for contributing!
 - Thanks <GrahamCampbell> for contributing!
 - Thanks <freekmurze> for contributing!
+- Thanks <Borda> for contributing!
